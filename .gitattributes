@@ -1,0 +1,2 @@
+*.omnom filter=lfs diff=lfs merge=lfs -text
+sd filter=lfs diff=lfs merge=lfs -text
