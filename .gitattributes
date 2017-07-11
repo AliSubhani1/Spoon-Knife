@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 *.psd filter=lfs diff=lfs merge=lfs -text
+=======
+*.omnom filter=lfs diff=lfs merge=lfs -text
+sd filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 0d25ee65a0d4f68ff51db261889364b4436d7d0f
